@@ -1,8 +1,8 @@
 #######################################################
-#  						                                        #
-#	Mp3 and Mp4 Downloader			                        #
-#	      Version 1.2			                              #
-#						                                          #
+#  						      #
+#	Mp3 and Mp4 Downloader			      #
+#	      Version 1.2			      #
+#						      #
 # Author: Vaksin & Uploaded by kazuya                 #
 # Copyright © 2016 All Rights Reserved.               #
 #######################################################
