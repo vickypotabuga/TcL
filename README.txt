@@ -12,7 +12,7 @@ set linkdl "http://your.link/~user"
 set path "/home/kazuya"
 
 3. Upload kazuya.sh to your eggdrop folder. (/home/user/eggdrop/here)
-And set permission to 755 ---> Type: chmod 755 vaksin.sh
+And set permission to 755 ---> Type: chmod 755 kazuya.sh
 
 4. Upload mp3.tcl to your scripts folder. (/home/user/eggdrop/scripts/here)
 
